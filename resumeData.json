@@ -1,0 +1,165 @@
+{
+  "main": {
+    "name": "David Vega",
+    "occupation": " Full Stack ",
+    "description": " Estudiante de Ingenieria de Sistemas",
+    "employer": "Instant Domain Search",
+    "jobDescription": "push pixels, shuffle data, and slap my keyboard until everything works",
+    "image": "profile_pic.jpg",
+    "bio": "Soy un ingeniero de sistemas altamente proactivo con una sólida comprensión de los principios de desarrollo de software y una amplia experiencia en el soporte para aplicaciones, Soy apasionado por el aprendizaje continuo y siempre busco oportunidades para mejorar mis habilidades técnicas y mantenerme actualizado con las últimas tendencias en el campo de la tecnología. Soy conocido por mi enfoque proactivo en la identificación y resolución de problemas en el desarrollo de software. Mi capacidad para anticipar y abordar posibles desafíos me permite ser proactivo en la identificación de soluciones y asegurar la entrega exitosa de proyectos en tiempo y forma.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "odvega.co@gmail.com",
+    "phone": "(+57) 323-2825739",
+    "address": {
+      "street": "Pacific Avenue",
+      "city": "Agustin Codazzi",
+      "state": "Colombia",
+      "zip": "Cesar"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1h_A_d3mO67YZfbe9-cohlEG8Q3OZkFe2/view?usp=share_link",
+    "social": [
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/david-vega-904037233/",
+        "className": "fa fa-linkedin"
+      },
+      
+      
+      {
+        "name": "github",
+        "url": "https://github.com/odvr",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Siempre me interesa jugar con las nuevas tecnologías, pero estas son las que realmente me han conquistado",
+    "education": [
+      {
+        "school": "CUN: Corporación Unificada Nacional de Educación Superior",
+        "degree": "Ingeniería de Sistemas",
+        "graduated": "X Semestre",
+        "description": ""
+      },
+      {
+        "school": "Universidad Autónoma de Bucaramanga",
+        "degree": "Programador Full Stack",
+        "graduated": "Abril 2023",
+        "description": ""
+      },
+      {
+        "school": "Sena",
+        "degree": "Tecnólogo en redes y telecomunicaciones ",
+        "graduated": " 2016",
+        "description": ""
+      },
+      {
+        "school": "Sena",
+        "degree": "Técnico en Sistemas",
+        "graduated": " 2014",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Analítica - Cliente  Mintic",
+        "title": "Ingeniero de soporte Junior",
+        "years": "Abril 2021 - Presente",
+        "description": "Atención al cliente: Brindar soporte técnico a los clientes o usuarios finales, responder a sus consultas o problemas técnicos, y asegurarse de que estén satisfechos con el funcionamiento de los sistemas, aplicaciones o productos.\nDocumentación técnica: Crear y mantener documentación técnica actualizada, como manuales de usuario, guías de instalación, documentación de configuración y otros documentos técnicos relevantes para los sistemas, aplicaciones o productos desarrollados.\nResolución de problemas: Identificar y solucionar problemas técnicos complejos de manera rápida y eficiente, utilizando herramientas de diagnóstico, análisis y resolución de problemas.\nCumplimiento de estándares: Asegurarse de que los sistemas, aplicaciones o productos desarrollados cumplan con los estándares de calidad, seguridad y rendimiento establecidos por la empresa, la industria o los clientes"
+      },
+      {
+        "company": "Indra Proyecto Wom",
+        "title": "Ingeniero de soporte Junior",
+        "years": "Feb 2021 - Abril 2021",
+        "description": "Configuración y despliegue: Configurar y desplegar los sistemas, aplicaciones o productos en los entornos de producción, asegurando su correcta configuración, seguridad y rendimiento.\nPruebas y depuración: Realizar pruebas exhaustivas para garantizar la calidad y confiabilidad de los sistemas, aplicaciones o productos desarrollados. Identificar y solucionar errores o defectos, asegurando su correcto funcionamiento.\nMantenimiento y soporte: Proporcionar mantenimiento continuo y soporte técnico a los sistemas, aplicaciones o productos existentes. Identificar y solucionar problemas, errores o fallas en el funcionamiento de los sistemas, asegurando su disponibilidad y rendimiento."
+      },
+      {
+        "company": "Platinum Contact Center",
+        "title": "Técnico en Sistemas  ",
+        "years": "Sep 2019 - Ene 2021",
+        "description": "Gestión de incidentes y problemas: Investigar y resolver incidentes y problemas de sistemas, identificar las causas raíz y tomar medidas correctivas para prevenir recurrencias.\nSeguridad de sistemas: Implementar y mantener medidas de seguridad en los sistemas, como firewalls, antivirus, sistemas de detección de intrusiones, autenticación y control de acceso, y asegurarse de que se cumplan las políticas de seguridad establecidas.\nRespaldo y recuperación de datos: Configurar y gestionar los procesos de respaldo y recuperación de datos para garantizar la protección de la información crítica de la empresa y asegurar la disponibilidad y recuperación en caso de desastres o incidentes.\nMonitoreo y gestión del rendimiento: Monitorear el rendimiento de los sistemas y aplicaciones, identificar y solucionar problemas de rendimiento, y optimizar la configuración para garantizar un funcionamiento eficiente y confiable.\nConfiguración y mantenimiento de sistemas: Configurar, implementar y mantener los sistemas operativos, servidores, redes y otros componentes de infraestructura tecnológica de la empresa. Esto puede incluir la instalación, configuración, actualización y parcheo de sistemas operativos, aplicaciones y servicios.   "
+      },
+      {
+        "company": "Fundación Universitaria de Ciencias de la Salud",
+        "title": "Practicante universitario ",
+        "years": "Feb 2019 - Ago 2019",
+        "description": "Aprendiz de sistemas "
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "description": "Uso Git para todos mis proyectos hasta ahora. He usado Git para el control de versiones en equipos pequeños y he jugado con la contribución a proyectos de código abierto.",
+        "image": "git.jpg"
+      },
+      {
+        "name": "Java",
+        "description": " Java fue mi primer lenguaje de programación que comencé a usar en la universidad hace años. Es, con mucho, el lenguaje con el que estoy más familiarizado en términos de estructura de datos y programación de algoritmos.",
+        "image": "java.jpg"
+      },
+      {
+        "name": "React Js",
+        "description": "Soy bastante nuevo en React y realmente  me gustó al principio. Ha crecido en mí y continuaré usándolo en el futuro. He creado varios sitios web basados en ReactJS.",
+        "image": "react.jpg"
+      },
+      {
+        "name": "Python",
+        "description": "Disfruto de Python  por su facilidad de configuración y su capacidad para poner en marcha rápidamente un prototipo de pila completa. Usé Python en un equipo para una  proyecto de  programación de inicio en Java junto con React para construir una aplicación web ",
+        "image": "Python.png"
+      },
+
+      {
+        "name": "Node JS",
+        "description": "Node JS es mi lenguaje de secuencias de comandos del lado del servidor preferido. La mayor parte de mi experiencia con él ha sido en conjunto con proyectos basados ​​en Python.",
+        "image": "node.jpg"
+      },
+      {
+        "name": "Bootstrap 4",
+        "description": "    Uso Bootstrap la mayoría de las veces cuando diseño mis sitios. Es el marco con el que estoy más familiarizado y, por lo tanto, puedo diseñar más rápido que con otros.",
+        "image": "bootstrap.jpg"
+      },
+      {
+        "name": "MySQL",
+        "description": "He usado muchos sistemas de bases de datos diferentes y estoy mejor educado y tengo más experiencia con las bases de datos relacionales. Sin embargo, para muchas aplicaciones, la facilidad de uso de MySQL se adapta mejor a mis necesidades.",
+        "image": "Mysql.png"
+      },
+      {
+        "name": "JavaScript",
+        "description": "Utilizo JS para mi proyecto se ha convertido en una gran herramienta para realizar las integraciones ",
+        "image": "js.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Proyecto de Ganadería ",
+        "category": "Desarrollo del Backend Usando fastapi python y ORM sqlalchemy",
+        "image": "sinarca.jpg",
+        "url": "https://github.com/odvr/sinarca_backend"
+      },
+      {
+        "title": "Renta Car Gear",
+        "category": "Desarrollo implementado con Java y spring boot ",
+        "image": "Rentacar.jpg",
+        "url": "http://150.136.166.43/RentaCar_USA_G24_G11/dist/index.html"
+      },
+      {
+        "title": "Imperio",
+        "category": "Website Desarrollada con Html y Css",
+        "image": "Imperio.jpg",
+        "url": "https://odvr.github.io/FrontEnd_Web/"
+      }
+       ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "la sencillez es sofisticación al máximo nivel",
+        "user": " -  Leonardo da Vinci"
+      }
+    ]
+  }
+}
